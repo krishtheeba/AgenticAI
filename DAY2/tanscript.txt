@@ -1,0 +1,6 @@
+John: We need to finalize the product launch timeline.
+Sara: Marketing campaign will start next Monday.
+Mike: Development is 90% complete, but testing is pending.
+John: Let's aim for release by end of this month.
+Sara: Agreed. I'll prepare campaign materials.
+Mike: I'll complete testing by next week.
